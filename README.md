@@ -1,7 +1,8 @@
 # tint2rc  
-  tint2 config file    
+tint2 config file  
+[![License: CC](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-f2632f.svg?style=flat-square&logo=creative-commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)  
   
-  ![20190509_tint2](https://user-images.githubusercontent.com/19635210/57415750-7b408000-71fd-11e9-850f-3d15fdf5473e.png)
+  ![tint2 scrot](https://raw.githubusercontent.com/0vv1/Oystagony/assets/scrot/tint2_20190602.png)  
   
 ## depends on
  * `tint2`
@@ -9,5 +10,6 @@
     to show weather forecast
  * optional `clsysutil.py`
     to show system utilization
- * optional `FiraCode` font with Nerd Font patch    
+ * optional `FiraCode` (or any other) font with Nerd Font patch    
    (see https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
+
