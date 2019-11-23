@@ -1,7 +1,7 @@
 # tint2rc  
 tint2 config file  
   
-  ![tint2 scrot](https://raw.githubusercontent.com/0vv1/Oystagony/assets/scrot/tint2_20190602.png)  
+  ![tint2 scrot](https://github.com/0vv1/Oystagony/raw/assets/img/screenshot/tint2.20190602.png)  
   
 ## depends on
  * `tint2`
